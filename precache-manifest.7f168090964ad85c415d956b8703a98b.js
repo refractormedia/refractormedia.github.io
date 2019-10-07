@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55c62c71b1465521d8e4e8945958a323",
+    "revision": "2c732138b40e22574fd497d3901f295c",
     "url": "/index.html"
   },
   {
-    "revision": "7adc2bb5092f00549fd6",
-    "url": "/static/css/main.831cade6.chunk.css"
+    "revision": "9400c2c98c191f87afeb",
+    "url": "/static/css/main.efa74ea3.chunk.css"
   },
   {
-    "revision": "ec7166692f257ea5ef90",
-    "url": "/static/js/2.dfa68d09.chunk.js"
+    "revision": "09f3b4c814d37bf9f0be",
+    "url": "/static/js/2.5516f610.chunk.js"
   },
   {
-    "revision": "7adc2bb5092f00549fd6",
-    "url": "/static/js/main.cc41964a.chunk.js"
+    "revision": "9400c2c98c191f87afeb",
+    "url": "/static/js/main.6663b493.chunk.js"
   },
   {
     "revision": "292c85e4106d79ae5e01",
@@ -28,8 +28,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Learning_bg.cb849971.jpg"
   },
   {
+    "revision": "2053324b4fb0e4e75c4c32fc5f097eb0",
+    "url": "/static/media/Observations_back.2053324b.jpg"
+  },
+  {
     "revision": "04f80e15a7ced49088a043030a3cd6c2",
     "url": "/static/media/Observations_bg.04f80e15.png"
+  },
+  {
+    "revision": "f8169d026a8e5f9b7f6a52f7000fced3",
+    "url": "/static/media/Observations_desk.f8169d02.jpg"
+  },
+  {
+    "revision": "10c0af08590c9f188c3ba9ae5ad4d709",
+    "url": "/static/media/Observations_room.10c0af08.jpg"
+  },
+  {
+    "revision": "28990bfa02e78bb9ce5adc1e580d1723",
+    "url": "/static/media/Observations_wall.28990bfa.jpg"
   },
   {
     "revision": "efa41505247288ac95285aceebde7cd4",

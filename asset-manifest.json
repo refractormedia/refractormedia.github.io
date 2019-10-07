@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.831cade6.chunk.css",
-    "main.js": "/static/js/main.cc41964a.chunk.js",
-    "main.js.map": "/static/js/main.cc41964a.chunk.js.map",
+    "main.css": "/static/css/main.efa74ea3.chunk.css",
+    "main.js": "/static/js/main.6663b493.chunk.js",
+    "main.js.map": "/static/js/main.6663b493.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8e131bcb.js",
     "runtime-main.js.map": "/static/js/runtime-main.8e131bcb.js.map",
-    "static/js/2.dfa68d09.chunk.js": "/static/js/2.dfa68d09.chunk.js",
-    "static/js/2.dfa68d09.chunk.js.map": "/static/js/2.dfa68d09.chunk.js.map",
+    "static/js/2.5516f610.chunk.js": "/static/js/2.5516f610.chunk.js",
+    "static/js/2.5516f610.chunk.js.map": "/static/js/2.5516f610.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b88e4a7c01d9a137139ce1978e15527e.js": "/precache-manifest.b88e4a7c01d9a137139ce1978e15527e.js",
+    "precache-manifest.7f168090964ad85c415d956b8703a98b.js": "/precache-manifest.7f168090964ad85c415d956b8703a98b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.831cade6.chunk.css.map": "/static/css/main.831cade6.chunk.css.map",
+    "static/css/main.efa74ea3.chunk.css.map": "/static/css/main.efa74ea3.chunk.css.map",
     "static/media/index.css": "/static/media/Spectral-Light.99e0862d.ttf",
     "static/media/Learning_bg.jpg": "/static/media/Learning_bg.cb849971.jpg",
-    "static/media/Observations_bg.png": "/static/media/Observations_bg.04f80e15.png",
+    "static/media/Observations_back.jpg": "/static/media/Observations_back.2053324b.jpg",
+    "static/media/Layout.module.css": "/static/media/Observations_bg.04f80e15.png",
+    "static/media/Observations_desk.jpg": "/static/media/Observations_desk.f8169d02.jpg",
+    "static/media/Observations_room.jpg": "/static/media/Observations_room.10c0af08.jpg",
+    "static/media/Observations_wall.jpg": "/static/media/Observations_wall.28990bfa.jpg",
     "static/media/Run_River_bg.jpg": "/static/media/Run_River_bg.efa41505.jpg"
   }
 }
