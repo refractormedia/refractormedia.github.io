@@ -1,23 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b979549947ea7c7c2c34df4c67286ae9",
+    "revision": "cace263f1b421ae2b6fbbd8f05ad6d7c",
     "url": "/index.html"
   },
   {
-    "revision": "b08d81fa866c24ecd10b",
-    "url": "/static/css/main.ae824eb6.chunk.css"
+    "revision": "0b93a2d16b6195d8dbfb",
+    "url": "/static/css/main.1bc02cdc.chunk.css"
   },
   {
-    "revision": "07592ce7f00470c22f2e",
-    "url": "/static/js/2.dba5a88c.chunk.js"
+    "revision": "91fb32798075831865f7",
+    "url": "/static/js/2.ed5e148c.chunk.js"
   },
   {
-    "revision": "b08d81fa866c24ecd10b",
-    "url": "/static/js/main.38a17746.chunk.js"
+    "revision": "0b93a2d16b6195d8dbfb",
+    "url": "/static/js/main.cd4e0308.chunk.js"
   },
   {
     "revision": "292c85e4106d79ae5e01",
     "url": "/static/js/runtime-main.8e131bcb.js"
+  },
+  {
+    "revision": "d9b952bf7276a24a5408432e651f77f4",
+    "url": "/static/media/ArrowRight.d9b952bf.svg"
+  },
+  {
+    "revision": "823dcbcaa1fa7bc51163f24c03921bfc",
+    "url": "/static/media/ArrowUp.823dcbca.svg"
+  },
+  {
+    "revision": "aa45b485bef0904c2fb8c2d7718aa514",
+    "url": "/static/media/Circle.aa45b485.svg"
+  },
+  {
+    "revision": "5f5324baa8cba77c6e14038dc03ff6ed",
+    "url": "/static/media/Dotdotdot.5f5324ba.svg"
   },
   {
     "revision": "3b81dcff384c3b06d2eadea0d54b65fe",
@@ -60,11 +76,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Run_River_explaining.9b490208.jpg"
   },
   {
-    "revision": "df019a3d651b4e39cbee01395c78d821",
-    "url": "/static/media/Run_River_meeting.df019a3d.jpg"
-  },
-  {
     "revision": "99e0862d30ba35987b1dc8d794b78301",
     "url": "/static/media/Spectral-Light.99e0862d.ttf"
+  },
+  {
+    "revision": "d8c85e6f2995b8ca022bae933b57c822",
+    "url": "/static/media/X.d8c85e6f.svg"
   }
 ]);
