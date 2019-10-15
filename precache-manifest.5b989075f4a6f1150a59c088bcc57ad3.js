@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c504637b5b84e6912073d711aa9b792d",
+    "revision": "8e85510f60e435f86e9f43724d720e57",
     "url": "/index.html"
   },
   {
-    "revision": "794593b28ce8f820c33c",
-    "url": "/static/css/main.d343a890.chunk.css"
+    "revision": "bd4dd00246e1f2868029",
+    "url": "/static/css/main.1acbf18c.chunk.css"
   },
   {
-    "revision": "78c65ada6b192170f958",
-    "url": "/static/js/2.d843fcad.chunk.js"
+    "revision": "9dd81bebc0f0af6d4c9e",
+    "url": "/static/js/2.630edae8.chunk.js"
   },
   {
-    "revision": "794593b28ce8f820c33c",
-    "url": "/static/js/main.2f089c7d.chunk.js"
+    "revision": "bd4dd00246e1f2868029",
+    "url": "/static/js/main.507145a2.chunk.js"
   },
   {
     "revision": "292c85e4106d79ae5e01",
@@ -66,14 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "efa41505247288ac95285aceebde7cd4",
     "url": "/static/media/Run_River_bg.efa41505.jpg"
-  },
-  {
-    "revision": "6abf0ab87e7c6e9d470c00640b6b2f86",
-    "url": "/static/media/Run_River_decapitation.6abf0ab8.jpg"
-  },
-  {
-    "revision": "9b4902081dc1b359ca0f5f919823ec31",
-    "url": "/static/media/Run_River_explaining.9b490208.jpg"
   },
   {
     "revision": "99e0862d30ba35987b1dc8d794b78301",
